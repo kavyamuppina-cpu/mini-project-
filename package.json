@@ -14,8 +14,11 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+<<<<<<< HEAD
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
+=======
+>>>>>>> a5e8a1126427458e23ab49e6bc54c39546d99810
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
@@ -38,8 +41,13 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+<<<<<<< HEAD
   },
   "devDependencies": {
     "gh-pages": "^6.3.0"
   }
 }
+=======
+  }
+}
+>>>>>>> a5e8a1126427458e23ab49e6bc54c39546d99810
